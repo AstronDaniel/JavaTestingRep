@@ -2,3 +2,5 @@ Testing java counting words owen
 Github rep successful
 tesing auto fetch
 now works
+Edited from git commit section
+Now the number of words have increased 
